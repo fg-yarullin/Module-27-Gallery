@@ -16,9 +16,6 @@
         },
 
         "classmap": ["app/core", "app/controllers", "app/models"]
-    },
-
-    "require": {
-        "twig/twig": "^3.3"
     }
+
 }
